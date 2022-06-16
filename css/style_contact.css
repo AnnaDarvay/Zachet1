@@ -49,17 +49,11 @@ header {
 	height: 379px;
 	padding-top: 38px;
 	box-sizing: border-box;
-	width: 100%;
 	flex: none;
 	background-image: url('../img/main_contact.png');
 	background-size: 100% 250px;
 	background-repeat: no-repeat;
 	background-position: center bottom;
-}
-
-header .container{
-	width: 1140px;
-	margin: 0 auto;
 }
 
 header .container:first-child {
